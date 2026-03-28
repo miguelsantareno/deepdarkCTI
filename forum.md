@@ -38,6 +38,7 @@
 |[BREACHED (Deep)](https://breached.vc)| OFFLINE | |
 |[BREACHED (Deep)](breached.fi)| OFFLINE | |
 |[BREACHED](https://breached.ws)| ONLINE | |
+|[BREACH FORUMS (Dark)](https://breachddyfwvcp4kzccos5oxtdbssmfbpv2kong6nxswlcge3u7zjgi.onion/)| ONLINE | |
 |[BreachForums (Dark)](http://breached4w3qphorxg2fwqkhpfnsyf65je72d2shli3fcfgorwdeymad.onion)| OFFLINE | |
 |[BREACH FORUMS (Dark)](http://breachedu76kdyavc6szj6ppbplfqoz3pgrk3zw57my4vybgblpfeayd.onion)| OFFLINE (seized) | |
 |[BREACH FORUMS (Dark)](http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion)| OFFLINE | |
@@ -60,6 +61,7 @@
 |[BREACH FORUMS starting from 26/07/25 - by Anastasia (Shinyhunter)](https://breachforums.hn) | OFFLINE (seized) | |
 |[BREACH FORUMS](https://breachforums.ac/)| ONLINE | |
 |[BREACH FORUMS](https://breachforums.ai/)| ONLINE | |
+|[BREACH FORUMS](https://breachforums.sb/)| ONLINE | |
 |[BTTFORUM](https://btt-club.top)| OFFLINE | |
 |[CARDERS.BIZ](https://carders.biz)| ONLINE | |
 |[CARDING FORUM (Deep)](https://cardingforum.cx)| OFFLINE | |
