@@ -5,6 +5,7 @@
 |[Darth maul shop](https://1977.ws/)| ONLINE | |
 |[2EASY](https://2easy.shop)| OFFLINE | |
 |[2EASY](https://2easy.cc)| ONLINE | |
+|[Amazon Market](http://awazonsnag7pv4jxhfeiw37nuibg3gibokou2sawcgucapt3d2tyggid.onion)| ONLINE | |
 |[ALLWORLDCARDS](https://href.li/?http://awcardsqtyy2nzjz4bqwbccvv6xr4bdcwcgfyewd7gsx5mhh63c2lsad.onion)| OFFLINE | |
 |[AlphaBay (Dark i2p)](tnaefzkcnhryeusi7hdpqujqiqmnbtah3dmjcg3gvezohunjuxbq.b32.i2p)| ONLINE | |
 |[AlphaBay (Dark Tor)](http://alphabay522szl32u4ci5e3iokdsyth56ei7rwngr2wm7i5jo54j2eid.onion)| ONLINE | |
@@ -161,3 +162,4 @@
 |[THE MATRIX](https://thematrixstore.at)|ONLINE|Card Market|
 |[THE MATRIX](https://thematrixstore.org)|ONLINE|Card Market|
 |[THE MATRIX](http://thematrixskwaxyerq6zjv3jtklxj7lumztuavofiwtkrcyagh4jk3id.onion)|ONLINE|Card Market|
+|[BreachForums](https://breached.su)|ONLUNE||
