@@ -37,7 +37,8 @@
 |[ALPHV (aka BlackCat 2)](http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion)|OFFLINE||||
 |[ALPHV (aka BlackCat 2)](http://alphvuzxyxv6ylumd2ngp46xzq3pw6zflomrghvxeuks6kklberrbmyd.onion)|ONLINE||||
 |[ALPHV (collection data leaks)](http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion)|ONLINE||||
-|[ANUBIS](http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion)|ONLINE||||
+|[ANUBIS](http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion)|ONLINE|| Session:05d2edf73f36e59991a118f2529b57ea12422b155e48e37e2f2b21d2b6a5f8041a - qTox:35421788C5D0A82C32B450BEC5CB8A02F7B1385A3E722A91988AA8A2D424F47B672A5A2F948F - https://x.com/Anubis__media - E-mail:anubisit@onionmail.org ||
+|[ANUBIS - New](http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion)|ONLINE||||
 |[Apos Security](https://apos.blog)|ONLINE||E6DE9A810847293EC993A6FFCF615F43178489048D2974C215B2D1BAEED3A950432030DA3572|
 |[Apos Security](http://yrz6bayqwhleymbeviter7ejccxm64sv2ppgqgderzgdhutozcbbhpqd.onion)|ONLINE||E6DE9A810847293EC993A6FFCF615F43178489048D2974C215B2D1BAEED3A950432030DA3572|
 |[APT73 (ERALEIG - Dark)](http://apt73grpjgjwykrenq7vnjejue76vosdzptdvmonv7vyqnsyokrw57ad.onion/)|ONLINE||9796CE1E72A8874D594F6573F44C94FB649473B4194DCD80C406BFE88E4B3662A375E78FB436 - https://t.me/apt73_official - https://twitter.com/Apt73Group||
@@ -101,6 +102,7 @@
 |[BLACKSHRANTAC](http://shrantacpxim7z6m6pnszi52bb2tp23sntby3hklt36rezdja7bdjsyd.onion/leaks)|ONLINE||||
 |[BLACK SUIT](http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion)|ONLINE||||
 |[BLACK WATER](http://ejzl7cjxmkx7lzhiqwidmrwtfjv45pkczbc4fnyaut3t7gll3yaiq5id.onion)|ONLINE||||
+|[BLACKX](https://blackxppq2jvqyg4slyg3sbszv7ib2avaaycvhff5qipgdoepqi57xyd.onion)|ONLINE||||
 |[BLUE SKY (Victims request ID Page)](http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion)|ONLINE||||
 |[BLUEBOX](http://zu3wfrmrkl4ltqqnpt3owp3cwa33rqwod4gpe3ttb5o4vf2is2gzm6qd.onion)|ONLINE||||
 |[BONACI GROUP](http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion)|OFFLINE||||
@@ -459,6 +461,7 @@
 |[PLAY](http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion)|ONLINE||||
 |[PLAYBOY](http://vlofmq2u3f5amxmnblvxaghy73aedwta74fyceywr6eeguw3cn6h6uad.onion)|ONLINE||||
 |[PRINZ EUGEN](http://6cudc5cqa2bjpwdhcwm2lj6dbqejjjqzeo6ipwvmbazr6cgu7vfk3dad.onion)|ONLINE||||
+|[PRINZ EUGEN](http://prinzfkbjiazbrur4mjje6mntjc4vydx3iatkkzycufoylqcoo4y7pqd.onion)|ONLINE||||
 |[PROLOCK](http://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion)|OFFLINE||||
 |[PROMETHEUS](http://promethw27cbrcot.onion/blog)|OFFLINE||||
 |[PRYX (deep web)](http://pryx.cc)|ONLINE||141C8F13F4B7A4C2EED05A29186AE10F8E849AE4AC2C3E7B167FD27B316E026A42B75D5AE83C||
@@ -645,3 +648,4 @@
 |[YUREI](http://fewcriet5rhoy66k6c4cyvb2pqrblxtx4mekj3s5l4jjt4t4kn4vheyd.onion)|ONLINE||||
 |[ZEON (Victims page)](http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion)|OFFLINE||||
 |[Zero Tolerance](http://zhuobnfsddn2myfxxdqtpxk367dqnntjf3kq7mrzdgienfxjyllq4rqd.onion)|ONLINE||||
+|[DeadLock](https://deadlock.liveblog365.com/)|ONLINE||||
